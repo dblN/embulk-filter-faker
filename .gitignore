@@ -1,0 +1,9 @@
+*~
+/pkg/
+/tmp/
+.gradle/
+classpath/
+build/
+.idea
+/out/
+ci/postgresql.yml
